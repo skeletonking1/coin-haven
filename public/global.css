@@ -1,0 +1,8 @@
+#coinselect{
+  background:#e9ecef; border-left:none
+}
+#coinselect:focus{
+  box-shadow: none;
+  border:1px solid #ced4da;
+  border-left: none;
+}
